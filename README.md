@@ -13,7 +13,7 @@ Contacts:
 
 <a href="https://vk.com/putilin_m"><img src="https://www.svgrepo.com/show/331634/vk-v2.svg" style="width:40px; height:40px;"/></a>
 <a href="https://t.me/lemoner"><img src="https://www.svgrepo.com/show/452115/telegram.svg" style="width:40px; height:40px;"/></a>
-<a href="putilin.md@gmail.com"><img src="https://static-00.iconduck.com/assets.00/gmail-icon-509x512-ikquhn8l.png" style="width:40px; height:40px;"/></a>
+<a href="mailto:putilin.md@gmail.com"><img src="https://static-00.iconduck.com/assets.00/gmail-icon-509x512-ikquhn8l.png" style="width:40px; height:40px;"/></a>
 
 ---
 Technologies:
