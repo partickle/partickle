@@ -5,6 +5,7 @@ I'm Junior Flutter Mobile Developer.
 I've ended some programming courses:
 - Samsunng Inovation Campus: Java Mobile Development
 - Internship in the direction of Frontend developer at Fittin
+- Surf Flutter Summmer School
 ---
 My Education:
 - Voronezh State University. <b><a href="https://cs.vsu.ru">Computer Science Faculty</a></b> 3/4 course <i>Software Engineer</i>
